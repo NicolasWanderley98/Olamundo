@@ -16,7 +16,7 @@ Como Usar
 
 Clone o repositório para sua máquina local:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone (https://github.com/NicolasWanderley98/Olamundo)
 
 
 Abra o arquivo index.html em seu navegador de preferência para visualizar o conteúdo.
