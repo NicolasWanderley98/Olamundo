@@ -56,11 +56,11 @@ No seu terminal, dentro da pasta do projeto, execute os seguintes comandos:
 git init
 git add .
 git commit -m "Primeiro commit com o código HTML"
-git remote add origin https://github.com/seu-usuario/seu-repositorio.git
+git remote add origin (https://github.com/NicolasWanderley98/Olamundo)
 git push -u origin master
 
 
-Substitua https://github.com/seu-usuario/seu-repositorio.git pelo link do repositório que você criou no GitHub.
+Substitua (https://github.com/NicolasWanderley98/Olamundo) pelo link do repositório que você criou no GitHub.
 
 Licença
 
